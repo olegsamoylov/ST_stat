@@ -1,0 +1,52 @@
+2.12086 -
+2.19906 +
+2.27435 +
+2.3514 - slow recon., do not count
+2.42446 -
+2.45726 +
+2.53266 + 
+2.61991 + 
+2.61975 + 
+2.68706 -
+2.72106 +
+2.79386 -
+2.87546 - slow recon., do not count 
+2.93526 +
+2.94886 + 
+3.01166 - slow recon., do not count
+3.02946 -
+3.09106 +
+3.12686 -
+3.22246 -
+3.27606 - slow reconnection 
+3.28806 - slow reconnection 
+3.29966 - 
+3.35086 - slow reconnection
+3.36226 +
+## down is adequate data, above not sure (nedeeded to be rechecked)
+3.37506 -
+3.44307 -
+3.50150 +
+3.53766 -
+3.60266 +
+3.7213 -
+3.73274 -
+3.78043 - slow recon., do not count
+3.79405 -
+3.81166 +
+3.88766 -
+3.94866 -
+3.99992 - slow recon., do not count
+4.01326 +
+4.05646 - slow recon., do not count
+4.12306 - slow recon., do not count
+4.13626 - slow recon., do not count
+4.16946 - slow recon., do not count
+4.17946 - slow recon., do not count
+4.18726 +
+4.21446 +
+4.24926 - slow recon., do not count
+4.27306 - slow recon., do not count
+4.29066 -
+4.32526 - slow recon., do not count
+4.35644 -
