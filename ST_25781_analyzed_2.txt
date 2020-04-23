@@ -1,0 +1,52 @@
+2.0149 + not obvious, the q=1 is too far, from Rz_trace seems like "+", remove
+2.02525 - not obvious, remove
+2.0263 - not obvious, remove
+2.03865 + 2.038655 2.038755
+2.05345 - frequncy can not be indentified, set same as (1,1) mode freq, or get from SXR
+2.06875 - frequncy can not be indentified
+2.09345 + frequency can not be identified
+2.1098 + no freq
+2.13005 - 2.12971 2.129875
+2.1712 - freq not clear
+2.2176 - freq not clear
+2.267 - freq not clear
+2.52595 - freq not clear
+2.6511 + freq not clear, !!! Good picture for the analysis of the width of reconnection
+2.726 - freq not clear
+2.74425 - do not see the (1,1) rotation, remove
+2.986 - strange, similar to previous, remove
+3.05015 - freq not clear
+3.0946 + freq not clear
+3.12355 - slow reconnection, remove
+3.1367 - ??? questionable, slow reconnection?
+3.1728 + 3.17258 3.17287
+3.20485 + ??? questionable, without explanation, so far should be removed
+3.2371 + 3.23698 3.23727 3.23757
+3.2671 + strange, remove
+3.2959 + 3.29558 3.295855
+3.3765 + 3.376385 3.37665
+3.4076 + 3.407345 3.40763
+3.66746 + 3.66721 3.667455
+3.69663 - 3.6963 3.69654
+3.728509 + 3.72814 3.72839
+3.81303 - 3.81263 3.81287 3.81312
+3.869065 - 3.86894 3.86922
+3.899704 - no freq
+3.932255 - 3.93205 3.932297
+3.961484 - 3.9611 3.961344
+3.992384 - no freq
+4.027794 + 4.027509 4.027674
+4.076614 - 4.076479 4.076604
+4.140260 + 4.140152 4.140262
+4.207300 + 4.207188 4.2073
+4.339214 + 4.339108 4.339214 reconnection during several turns ?
+4.371854 - 4.37165 4.371761
+4.451035 + 4.450931 4.451033
+4.489025 - 4.488826 4.488934
+4.577664 + 4.577539 4.577652
+4.623875 + 4.623697 4.623809 ? hard to tell q =1 too far to the edge
+4.706305 + 4.706183 4.706294
+4.787620 - 4.787416 4.787531 ? hard to tell
+4.879455 + 4.879244 4.879349
+4.944119 - 4.944119 4.944079 ? example of two turns reconnection
+4.978594 + 4.978487 4.978597 ? hard to tell
