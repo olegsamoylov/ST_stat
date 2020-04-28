@@ -1,17 +1,30 @@
 2.0149 + not obvious, the q=1 is too far, from Rz_trace seems like "+", remove
 2.02525 - not obvious, remove
 2.0263 - not obvious, remove
-2.03865 + 2.038655 2.038755
-2.05345 - frequncy can not be indentified, set same as (1,1) mode freq, or get from SXR
-2.06875 - frequncy can not be indentified
-2.09345 + frequency can not be identified
-2.1098 + no freq
-2.13005 - 2.12971 2.129875
-2.1712 - freq not clear
-2.2176 - freq not clear
-2.267 - freq not clear
-2.52595 - freq not clear
-2.6511 + freq not clear, !!! Good picture for the analysis of the width of reconnection
+2.05345 - not obvious, remove
+
+2.03865 + - - - 1.6 -
+2.06875 - - - - 1.6 -
+2.09345 + - - - 1.8 -
+2.1098 - - - - 1.5 -
+2.13005 - - - - 1.5 -
+2.1712 - - - - 1.7 -
+2.2176 - - - - 1.1 0.56
+2.267 - - - - 0.73 -
+2.290721 + - - - 0.6 -
+2.334962 + - - - 0.65 -
+2.382281 - - - - 0.63 -
+2.446855 - - - - 0.72 -
+2.46942 + - - - 0.66 -
+2.491352 - - - - 0.65 -
+2.52595 - - - - 0.7 -
+2.525851 - - - - 0.77 -
+2.563676 - - - - 0.65 -
+2.586641 - - - - 0.9 -
+2.608179 + - - - 0.72 -
+2.651092 + - - - 1.0 -
+2.672658 + - - - 0.72 - 
+2.69367 - - - - 0.657 -
 2.726 - freq not clear
 2.74425 - do not see the (1,1) rotation, remove
 2.986 - strange, similar to previous, remove
