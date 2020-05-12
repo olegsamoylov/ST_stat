@@ -1,0 +1,34 @@
+# ? bad signal to noise ratio?
+# ? SavGol filter does not work: try to remove nan values in the code then apply
+
+t_crash fB fE tau_crash[micro sec]
+1.18415 + remove?
+1.3069 - remove
+
+??  1.41165 + 22.5 18.1 some strange mode with high frequency
+?? 1.43405 - 19.4 19.4 same strange mode
+?? 2.0902 + 16.8 15 100 
+?? 2.1954 + 15.6 15 100
+?? 2.30935 + 16.1 11.1 75
+?? 2.4118 ? 16.1 12 not clear
+2.5176 + 14.2 12 not clear
+2.626 +
+# Let's look throgh, then skip this shot
+2.72835 + this one can be definitite plus
+2.82765 +
+2.9355 +
+3.03771 +
+3.12715 +
+3.21864 +
+3.32061 +
+3.43969 +
+3.5826 +
+3.68650 +
+3.78750 +
+3.88723 +
+3.99065 +
+4.09802 +
+4.39866 -
+4.57145 -
+4.67229 +
+4.76450 +

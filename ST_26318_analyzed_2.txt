@@ -1,0 +1,6 @@
+# shot is not useful for our analysis, only useful as an example of clear slow reconnection
+?? 1.5431 + I can not conclude I think
+1.7153 + example of slow reconnection (several turns), exclude from statistics
+1.8095 -
+1.9012 +
+1.9851 +
