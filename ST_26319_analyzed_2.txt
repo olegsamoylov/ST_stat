@@ -1,0 +1,10 @@
+# not sure with the ones below,
+none of them has clear crash in the window, at the same time on can imply that the crash has started on the last visible turn
+1.49185 -
+1.53298 +
+1.62041 +
+1.71699 +
+1.7825 +
+1.84661 +
+1.90652 +
+1.96893 +

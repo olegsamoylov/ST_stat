@@ -1,0 +1,16 @@
+1.2485 + remove
+1.3361 + remove
+1.3607 + remove
+1.3819 + remove
+1.4751 + remove
+
+?? 1.9179 - reconnection is longer than one plasma rotation turn
+
+# they all have long reconnection time
+1.4081 + 3.0 3.5
+1.5379 + 4.3 4.4
+1.6701 + 7.6 6.3
+1.7409 + 6.3 6.5
+1.8073 + 6.8 6.5
+1.8625 + 6.7 6.9
+1.9757 + 7.1 13.6
