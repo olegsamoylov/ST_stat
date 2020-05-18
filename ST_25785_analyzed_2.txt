@@ -1,5 +1,3 @@
-!!! recheck all the minuses
-?? 2.0363 - ? ? freq not clear
 2.0744 + 1.0 3.4
 2.16825 - 8.3 8.9
 2.2639 + 9.2 8.0
@@ -7,16 +5,15 @@
 2.4276 + 9.0 8.5
 2.5084 + 10.1 9.1
 2.5882 + 9.0 9.1
-2.7645 - 9.9 9.0
-2.84415 - 9.4 9.7
+2.7645 + 9.9 9.0
+2.84415 + 9.4 9.7
 2.9255 + 10.6 9.8
-?? 3.00095 - 10.3 10.1 not sure that this and previous ones are minus, is it already a reconnection, I say it is "+" because it is confined rotating spot not the temperature that disatributed along all the magnetic surface
-3.0987 - 10.5 10.2
+3.00095 + 10.3 10.1
+3.0987 + 10.5 10.2
 3.1948 + 10.9 9.7
-?? 3.2717 - 10.3 9.8
+3.2717 + 10.3 9.8
 3.3435 + 10.1 9.5
 3.4252 + 10.4 9.7
-## below is correct
 3.50535 + 9.7 10.0
 3.59225 + 9.6 10.1
 3.69149 + 11.2 10.1
@@ -43,4 +40,3 @@
 5.67594 + 10.4 11.8
 5.76273 + 10.6 10.8
 5.84937 + 11.0 11.5
-5.93225 - 11.3 11.0

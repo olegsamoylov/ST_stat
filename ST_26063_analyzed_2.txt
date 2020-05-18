@@ -1,5 +1,4 @@
-# ? bad signal to noise ratio?
-# ? SavGol filter does not work: try to remove nan values in the code then apply
+# decided to not include the shot to the statistics because the reconncetion happen during more than 2 turn
 
 t_crash fB fE tau_crash[micro sec]
 1.18415 + remove?
@@ -8,6 +7,8 @@ t_crash fB fE tau_crash[micro sec]
 ??  1.41165 + 22.5 18.1 some strange mode with high frequency
 ?? 1.43405 - 19.4 19.4 same strange mode
 ?? 2.0902 + 16.8 15 100 
+
+
 ?? 2.1954 + 15.6 15 100
 ?? 2.30935 + 16.1 11.1 75
 ?? 2.4118 ? 16.1 12 not clear
